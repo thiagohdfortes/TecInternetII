@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+body{
+		background: #8dc7e9;
+	}
+h1 {
+	font-size: 32px;
+	font-family: Verdana;
+	color: #ffffff
+  }
+h2{
+	font-size: 18px;
+	font-family: Verdana;
+	color: #ffffff
+  }  
+h3{
+	font-size: 14px;
+	font-family: Verdana;
+	color: #ffffff
+  }  
+h4{
+	font-size: 12px;
+	font-family: Verdana;
+	color: #000099
+  }  
+p{
+	font-size: 14px;
+	font-family: times new roman;
+	color: #ffe066
+ }  
